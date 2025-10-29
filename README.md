@@ -11,7 +11,7 @@ This project provides a *hands-on demonstration* of core operating system concep
 Watch a complete walkthrough of the program, from compilation to final results.  
 Click the demo video below to see the simulator in action:
 
-* **Demo Video:** [Video Link]([https://drive.google.com/file/d/13EnhYpwlayN0PZObUm-W7KbJ0GFztp7Y/view?usp=sharing](https://drive.google.com/file/d/1hPS4cf4gHdA1Lekhv0y9Ncr6Wgeg4ayO/view?usp=sharing))
+**Demo Video:** [Video Link](https://drive.google.com/file/d/1hPS4cf4gHdA1Lekhv0y9Ncr6Wgeg4ayO/view?usp=sharing)
 
 
 ---
@@ -50,10 +50,11 @@ For each algorithm, the program prints a detailed report showing:
 ## 📸 **Simulation Screenshots**
 
 
-1.![Defining the memory & processes (input screen)](./images/defining_memory_and_processes.png) *Defining the memory & processes (input screen)*  
-2. `images/first_fit_results.png` — *First Fit Algorithm results*  
-3. `images/best_fit_results.png` — *Best Fit Algorithm results*  
-4. `images/worst_fit_results.png` — *Worst Fit Algorithm results*
+1. *Defining the memory & processes (input screen)*  ![Defining the memory & processes (input screen)](./images/defining_memory_and_processes.png) 
+2. *First Fit Algorithm results* ![First Fit Algorithm results](./images/defining_memory_and_processes.png)   
+3. *Best Fit Algorithm results*  ![Best Fit Algorithm results](./images/defining_memory_and_processes.png)  
+4. *Worst Fit Algorithm results* ![Worst Fit Algorithm results](./images/defining_memory_and_processes.png)  
+5. *Next Fit Algorithm results* ![Next Fit Algorithm results](./images/defining_memory_and_processes.png)  
 
 ---
 
@@ -114,8 +115,9 @@ The program will run all four simulations and print results for each, including 
 ---
 ## ✨ Contributing
 If you'd like to contribute:
-1.Fork the repo.
-2.Create a feature branch: git checkout -b feature/your-feature
-3.Commit your changes: git commit -m "Add <your-feature>"
-4.Push to the branch and open a pull request.
+
+1. Fork the repo.
+2. Create a feature branch: git checkout -b feature/your-feature.
+3. Commit your changes: git commit -m "Add <your-feature>".
+4. Push to the branch and open a pull request.
 ---
