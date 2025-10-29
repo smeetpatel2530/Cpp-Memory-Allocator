@@ -9,11 +9,10 @@ This project provides a *hands-on demonstration* of core operating system concep
 ## 🎥 **Live Demo**
 
 Watch a complete walkthrough of the program, from compilation to final results.  
-Click the thumbnail below to see the simulator in action:
+Click the demo video below to see the simulator in action:
 
-![Demo Thumbnail](images/demo_thumbnail.png)
+* **Demo Video:** [Video Link]([https://drive.google.com/file/d/13EnhYpwlayN0PZObUm-W7KbJ0GFztp7Y/view?usp=sharing](https://drive.google.com/file/d/1hPS4cf4gHdA1Lekhv0y9Ncr6Wgeg4ayO/view?usp=sharing))
 
-> *Note: You will need to add a screenshot named `demo_thumbnail.png` to the `images` folder for the image to appear.*
 
 ---
 
@@ -50,14 +49,11 @@ For each algorithm, the program prints a detailed report showing:
 
 ## 📸 **Simulation Screenshots**
 
-Below are suggested screenshot file names to include in your `images/` folder so the README can display them:
 
-1. `images/defining_memory_and_processes.png` — *Defining the memory & processes (input screen)*  
+1.![Defining the memory & processes (input screen)](./images/defining_memory_and_processes.png) *Defining the memory & processes (input screen)*  
 2. `images/first_fit_results.png` — *First Fit Algorithm results*  
 3. `images/best_fit_results.png` — *Best Fit Algorithm results*  
 4. `images/worst_fit_results.png` — *Worst Fit Algorithm results*
-
-> *Note: Add these images to the `images` folder if you want inline visuals.*
 
 ---
 
