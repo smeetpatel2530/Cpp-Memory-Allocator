@@ -50,7 +50,7 @@ For each algorithm, the program prints a detailed report showing:
 ## 📸 **Simulation Screenshots**
 
 
-1. *Defining the memory & processes (input screen)*  ![Defining the memory & processes (input screen)](./images/defining_memory_and_processes.png) 
+1. *Defining the memory & processes (input screen)*  ![Defining the memory & processes (input screen)](./images/defining_memory_and_processes1.png) 
 2. *First Fit Algorithm results* ![First Fit Algorithm results](./images/first_fit.jpg)   
 3. *Best Fit Algorithm results*  ![Best Fit Algorithm results](./images/best_fit.jpg)  
 4. *Worst Fit Algorithm results* ![Worst Fit Algorithm results](./images/worst_fit.jpg)  
