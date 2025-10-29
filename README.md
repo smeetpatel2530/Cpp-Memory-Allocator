@@ -51,10 +51,10 @@ For each algorithm, the program prints a detailed report showing:
 
 
 1. *Defining the memory & processes (input screen)*  ![Defining the memory & processes (input screen)](./images/defining_memory_and_processes.png) 
-2. *First Fit Algorithm results* ![First Fit Algorithm results](./images/defining_memory_and_processes.png)   
-3. *Best Fit Algorithm results*  ![Best Fit Algorithm results](./images/defining_memory_and_processes.png)  
-4. *Worst Fit Algorithm results* ![Worst Fit Algorithm results](./images/defining_memory_and_processes.png)  
-5. *Next Fit Algorithm results* ![Next Fit Algorithm results](./images/defining_memory_and_processes.png)  
+2. *First Fit Algorithm results* ![First Fit Algorithm results](./images/first_fit.jpg)   
+3. *Best Fit Algorithm results*  ![Best Fit Algorithm results](./images/best_fit.jpg)  
+4. *Worst Fit Algorithm results* ![Worst Fit Algorithm results](./images/worst_fit.jpg)  
+5. *Next Fit Algorithm results* ![Next Fit Algorithm results](./images/next_fit.jpg)  
 
 ---
 
@@ -100,7 +100,7 @@ Enter the number of process:
 Enter memory required for each process:
 90 48 87 169 190 110 25 50
 ```
-The program will run all four simulations and print results for each, including allocations and total internal fragmentation.
+ - The program will run all four simulations and print results for each, including allocations and total internal fragmentation.
 ---
 ## 📄 What the Output Shows
 - A list mapping process → partition for each algorithm.
