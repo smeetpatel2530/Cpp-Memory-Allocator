@@ -106,11 +106,6 @@ Enter memory required for each process:
 - A list mapping process → partition for each algorithm.
 - A list of unallocated processes (if any).
 - Total internal fragmentation (sum of wasted spaces within allocated partitions) for each algorithm — useful to compare strategy efficiency.
----
-## 🧾 Notes & Tips
-- The program uses separate copies of the partition list for each algorithm so comparisons are fair and independent.
-- You may optionally remove system("pause") if you prefer not to pause at the end (commonly removed for UNIX environments).
-- To add a Next Fit visualization, ensure the simulator persists the last allocation pointer between allocations of the same simulation.
 
 ---
 ## ✨ Contributing
